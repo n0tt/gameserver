@@ -174,7 +174,7 @@ $login = new Login();											   #
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href=""><span class="glyphicon glyphicon-chevron-up"></span>Back to top</a></p>
-        <p><b style="color:#428BCA;">Gameserver v0.1b</b> © <b>Rui Almeida</b> 2015 </p>
+        <p><b style="color:#428BCA;">Gameserver v0.1b</b> © <b>Rui Almeida</b> 2014 </p>
       </footer>
 
     </div><!-- /.container -->
